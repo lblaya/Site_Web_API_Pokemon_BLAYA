@@ -1,3 +1,3 @@
-<p><b>~ Infos ~</b></p>
+# <p><b>~ Infos ~</b></p>
 
 API link : https://tyradex.vercel.app/
